@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Purpose2
  
-aeffbhaejf
+new purpose 2
+
+## Deployment
+
+dnsfhsfu
