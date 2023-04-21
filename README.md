@@ -19,5 +19,8 @@ new purpose 2
 dnsfhsfu new deployment text
 sample deployment
 
+## How To Contribute
+please fork this repositoryand then issue pull request
+
 ### Copyright
 2014 sushant SHINDE newly updated
