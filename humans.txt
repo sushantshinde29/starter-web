@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sushant Shinde	sushant@gmail.com
 
 # THANKS
 
